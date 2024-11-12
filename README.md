@@ -96,6 +96,7 @@ urlpatterns = [
 
 ## HOMEPAGE:
 ![image](https://github.com/user-attachments/assets/e249b7d2-68fb-4e81-9a06-cc005a5a3617)
+![image](https://github.com/user-attachments/assets/20d763ad-db3e-4626-9ace-49544dfe88a2)
 
 
 ## RESULT:
